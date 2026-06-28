@@ -6,9 +6,9 @@ This repository contains deep learning notebooks created in Google Colab.
 ## Projects :
 
 ### Network Traffic & Website Classifier (`BE_PROJECT.ipynb`)
-A dual-purpose deep learning model designed to analyze sequences of network packets. The model simultaneously performs two tasks:
-* Website Classification: Identifies which of 34 specific websites (e.g., Google, Amazon, Netflix) the network traffic belongs to.
-* Intrusion Detection: Classifies the traffic flow as either `normal` or a synthetic `attack`.
+*A dual-purpose deep learning model designed to analyze sequences of network packets. The model simultaneously performs two tasks:
+*Website Classification: Identifies which of 34 specific websites (e.g., Google, Amazon, Netflix) the network traffic belongs to.
+*Intrusion Detection: Classifies the traffic flow as either `normal` or a synthetic `attack`.
 
 ## Key Features:
 * *Architecture: Multi-task neural network utilizing a "CNN-BiLSTM-Attention" structure.
